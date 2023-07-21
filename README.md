@@ -1,5 +1,4 @@
 <div>
-
   <p align="center">Welcome to my Profile!😄 I'm a Management Information System 📊 student at Alexandria University 🏫. I'm deeply passionate about coding 💻 & I actively upload my newest achievements🏆 Please check them out! 😁
   </p>
 </div> 
@@ -30,12 +29,15 @@
 
   - HTML
   - CSS
-  - Bootstrap
   - Javascript
   - React.js
-  - Java
+  - Next.js
+  - REST API
+  - Node.js
+  - Express.js
+  - Tailwind CSS
 
 <h1>📫 Contact</h1>
-  <img width="100%" height="200px" src="https://user-images.githubusercontent.com/106281614/209713821-8c786d3a-7b83-4c12-a90f-a6ccd73a7334.gif">
+  <img width="100%" height="100%" src="https://user-images.githubusercontent.com/106281614/209713821-8c786d3a-7b83-4c12-a90f-a6ccd73a7334.gif">
 
-  <div align="center">📫Gmail: ZeyadMohamed.BUS.ACC@Gmail.com, 💻LinkedIn: https://www.linkedin.com/in/zeyad-mohamed-00686525b/</div>
+  <div align="center">📫Gmail: aamersyrai2000@gmail.com, 💻LinkedIn: www.linkedin.com/in/aamerov </div>
