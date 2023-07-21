@@ -1,5 +1,5 @@
 <div>
-  <img src="./assets/Github.jpg">
+
   <p align="center">Welcome to my Profile!😄 I'm a Management Information System 📊 student at Alexandria University 🏫. I'm deeply passionate about coding 💻 & I actively upload my newest achievements🏆 Please check them out! 😁
   </p>
 </div> 
