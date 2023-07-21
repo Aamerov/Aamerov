@@ -17,7 +17,7 @@
   <div align="left">
   
   -  I’m looking forward to get my first job as a Frontend Developer (My <a> CV / Resume</a> & <a>WUZZUF Profile</a>) 💼
-  -  Deeply study other programming field (Android & IOS Development, Data Analysis, Cyber Security, etc.) 📖
+  -  Deeply studying Data Structures and Algorithms. 
   -  Gain Work Experience in multiple corporations. 🔝
   -  Sharing my knowledge with everyone who needs it. 👨‍🎓
   
